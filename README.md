@@ -4,7 +4,7 @@ An interactive roadmap of the world's largest AI data center projects: when they
 
 It covers Oracle and the OpenAI Stargate program, the hyperscalers (Amazon, Microsoft, Google, Meta), AI labs (xAI/SpaceXAI, Anthropic), neoclouds (CoreWeave, Nebius, IREN, Crusoe, Nscale) and major Chinese players (Alibaba, ByteDance, Tencent). 41 projects in total.
 
-**Live page:** `https://<your-username>.github.io/<repo-name>/` *(replace with your GitHub Pages link)*
+**Live page:** `https://carokann14.github.io/data-center-roadmap/`
 
 **Data as of:** 18 September 2026
 
